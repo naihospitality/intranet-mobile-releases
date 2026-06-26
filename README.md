@@ -15,7 +15,7 @@ The application source code lives in a separate private repository — only the 
   <img src="https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v3.11.0-2E6B3E?style=for-the-badge&logo=android&logoColor=white" alt="Download v3.11.0 APK">
 </a>
 
-**55.7 MB** · Android (min SDK 21) · [Release notes](https://github.com/naihospitality/intranet-mobile-releases/releases/tag/v3.11.0)
+**56 MB** · Android (min SDK 21) · [Release notes](https://github.com/naihospitality/intranet-mobile-releases/releases/tag/v3.11.0)
 <!-- LATEST:END -->
 
 ---
