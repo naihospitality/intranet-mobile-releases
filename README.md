@@ -31,9 +31,9 @@ The application source code lives in a separate private repository — only the 
 
 ## All releases
 
+<!-- TABLE:START -->
 | Version | Date | Download |
 |---|---|---|
-<!-- TABLE:START -->
 | **v3.12.0** (latest) | 2026-06-27 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.12.0/naibnb-v3.12.0.apk) |
 | v3.11.0 | 2026-06-26 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.11.0/intranet-mobile-v3.11.0-release.apk) |
 <!-- TABLE:END -->
