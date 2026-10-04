@@ -9,13 +9,13 @@ The application source code lives in a separate private repository — only the 
 ## Latest release
 
 <!-- LATEST:START -->
-### v3.23.1
+### v3.24.0
 
-<a href="https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.23.1/intranet-mobile-v3.23.1-release.apk">
-  <img src="https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v3.23.1-2E6B3E?style=for-the-badge&logo=android&logoColor=white" alt="Download v3.23.1 APK">
+<a href="https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.24.0/intranet-mobile-v3.24.0-release.apk">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v3.24.0-2E6B3E?style=for-the-badge&logo=android&logoColor=white" alt="Download v3.24.0 APK">
 </a>
 
-**60 MB** · Android (min SDK 21) · [Release notes](https://github.com/naihospitality/intranet-mobile-releases/releases/tag/v3.23.1)
+**61.2 MB** · Android (min SDK 21) · [Release notes](https://github.com/naihospitality/intranet-mobile-releases/releases/tag/v3.24.0)
 <!-- LATEST:END -->
 
 ---
@@ -34,7 +34,8 @@ The application source code lives in a separate private repository — only the 
 <!-- TABLE:START -->
 | Version | Date | Download |
 |---|---|---|
-| **v3.23.1** (latest) | 2026-10-01 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.23.1/intranet-mobile-v3.23.1-release.apk) |
+| **v3.24.0** (latest) | 2026-10-04 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.24.0/intranet-mobile-v3.24.0-release.apk) |
+| **v3.23.1** | 2026-10-01 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.23.1/intranet-mobile-v3.23.1-release.apk) |
 | **v3.23.0** | 2026-09-29 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.23.0/intranet-mobile-v3.23.0-release.apk) |
 | **v3.22.0** | 2026-09-29 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.22.0/intranet-mobile-v3.22.0-release.apk) |
 | **v3.21.0** | 2026-09-27 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.21.0/intranet-mobile-v3.21.0-release.apk) |
