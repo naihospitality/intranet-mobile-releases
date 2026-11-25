@@ -35,7 +35,6 @@ The application source code lives in a separate private repository — only the 
 | Version | Date | Download |
 |---|---|---|
 | **v3.41.2** (latest) | 2026-11-25 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.41.2/intranet-mobile-v3.41.2-release.apk) |
-| **v3.41.1** | 2026-11-25 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.41.1/intranet-mobile-v3.41.1-release.apk) |
 | **v3.41.0** | 2026-11-24 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.41.0/intranet-mobile-v3.41.0-release.apk) |
 | **v3.40.3** | 2026-11-24 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.40.3/intranet-mobile-v3.40.3-release.apk) |
 | **v3.40.2** | 2026-11-24 | [APK](https://github.com/naihospitality/intranet-mobile-releases/releases/download/v3.40.2/intranet-mobile-v3.40.2-release.apk) |
